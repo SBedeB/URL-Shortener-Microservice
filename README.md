@@ -1,2 +1,2 @@
 # URL-Shortener-Microservice
-URL Shortener Microservice
+The URL Shortener Microservice project involves building a full-stack JavaScript app that allows users to shorten long URLs. Users can submit a URL, and the application generates a unique short URL for redirection. Additionally, users can access the original URL by visiting the short URL. The project requires handling POST requests to create short URLs, validating URLs, logging requests, serving static assets, and implementing error-handling middleware. It aims to demonstrate skills in web development, middleware usage, and handling HTTP requests and responses.
